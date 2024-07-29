@@ -1,3 +1,3 @@
 # ClassPractice
-Priya Khaiarte: 
+Priya Khaiarte: <br>
 Class GitHub
